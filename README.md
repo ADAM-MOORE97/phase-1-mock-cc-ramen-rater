@@ -1,4 +1,4 @@
-# Phase 1 Mock Code Challenge: Ramen Rater
+<!-- # Phase 1 Mock Code Challenge: Ramen Rater
 
 ## Learning Goals
 
@@ -42,7 +42,7 @@ As a user, I can:
 - See all ramen images in the `div` with the id of `ramen-menu`. When the page
   loads, request the data from the server to get all the ramen objects. Then,
   display the image for each of the ramen using an `img` tag inside the
-  `#ramen-menu` div.
+  `#ramen-menu` div. -->
 - Click on an image from the `#ramen-menu` div and see all the info about that
   ramen displayed inside the `#ramen-detail` div and where it says
   `insert comment here` and `insert rating here`.
